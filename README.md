@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Whatsapp Clone**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS and NextJs**
 
 - 👯 I’m looking to collaborate on **Eiser Ecommerce Website**
 
