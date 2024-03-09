@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captainpatel" alt="captainpatel" /></a> </p>
 
-- 🔭 I’m currently working on **Whatsapp Clone**
+- 🔭 I’m currently working on **Nothing/Break**
 
 - 🌱 I’m currently learning **AWS and NextJs**
 
@@ -36,6 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captainpatel&" alt="captainpatel" /></p>
 <br>
 <br>
+
 
 <!--
 **CaptainPatel/CaptainPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
