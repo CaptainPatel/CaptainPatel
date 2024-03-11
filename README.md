@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captainpatel" alt="captainpatel" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing/Break**
+- 🔭 I’m currently working on **Problem Solving Skills**
 
-- 🌱 I’m currently learning **AWS and NextJs**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Eiser Ecommerce Website**
 
