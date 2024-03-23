@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Eiser Ecommerce Website**
+- 👯 I’m looking to collaborate on **Assignment Hero**
 
 - 👨‍💻 All of my projects are available at [https://captainpatel.vercel.app/](https://captainpatel.vercel.app/)
 
