@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Problem Solving Skills**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👯 I’m looking to collaborate on **Assignment Hero**
 
