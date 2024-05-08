@@ -9,7 +9,5 @@
   },
   "author": "capy",
   "license": "ISC",
-  "dependencies": {
-    "line-replace": "^2.0.1"
-  }
+  "dependencies": {}
 }
