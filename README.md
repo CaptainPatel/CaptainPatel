@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go Lang**
 
-- 👯 I’m looking to collaborate on **Assignment Hero**
+- 👯 I’m looking to collaborate on **SocioBot**
 
 - 👨‍💻 All of my projects are available at [https://captainpatel.vercel.app/](https://captainpatel.vercel.app/)
 
