@@ -1,0 +1,15 @@
+{
+  "name": "github-profile",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "its a automated readme file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "capy",
+  "license": "ISC",
+  "dependencies": {
+    "line-replace": "^2.0.1"
+  }
+}

@@ -1,0 +1,33 @@
+name: Regular Update For ReadMe File
+
+on:
+  push:
+    branches:
+      - main
+    schedule:
+      # schedule for 3 am everyday
+      - cron: '1 0 * * *'
+
+permissions: 
+  contents: write
+  
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout to master branch
+        uses: actions/checkout@v3
+      - name: setup nodejs
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - name: install dependencies
+        run: npm install
+
+      - name: Generate Readme File
+        run: node index.js
+      - name: Commit and push new readme to repo
+        uses: mikeal/publish-to-github-action@master
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
