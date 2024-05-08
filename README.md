@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Captain Patel</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
+<!-- show todays date  -->
+<p align="center">The Date is <span id="date"></span></p>
+<script>
+  const currentDate = new Date().toLocaleDateString('en-US', { day: '2-digit', month: '2-digit', year: 'numeric' });
+  document.getElementById('date').innerText = currentDate;
+</script>
+
 - 🔭 I’m currently working on **Problem Solving Skills**
 
 - 🌱 I’m currently learning **Go Lang**
