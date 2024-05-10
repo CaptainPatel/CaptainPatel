@@ -1,12 +1,9 @@
 name: Regular Update For ReadMe File
 
 on:
-  push:
-    branches:
-      - main
-    schedule:
-      # schedule for 3 am everyday
-      - cron: '1 0 * * *'
+  schedule:
+    # schedule for 12:01 am everyday
+    - cron: '5 0 * * *'
 
 permissions: 
   contents: write
