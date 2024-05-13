@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://captainpatel.vercel.app/](https://captainpatel.vercel.app/)
 
 - 💬 Ask me about **MERN Stack, C++, Javascript**
-
+  
 - 📫 How to reach me **k2patel4947@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZqfE7Csn0Sx_jFhLH3JP7XuKjYlhNaVd/view?usp=drive_link](https://drive.google.com/file/d/1ZqfE7Csn0Sx_jFhLH3JP7XuKjYlhNaVd/view?usp=drive_link)
