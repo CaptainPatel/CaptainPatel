@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 <!-- show todays date  -->
-- <p align="center">The Date is <span>Sat Jul 20 2024</span></p>
+- <p align="center">The Date is <span>Sun Jul 21 2024</span></p>
 
 - 🔭 I’m currently working on **Problem Solving Skills**
 
