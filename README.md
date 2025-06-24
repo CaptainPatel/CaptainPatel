@@ -6,19 +6,19 @@
 
 - 🔭 I’m currently working on **Problem Solving Skills**
 
-- 🌱 I’m currently learning **Go Lang**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **SocioBot**
+- 👯 I’m looking to collaborate on **DSA Visualizer**
 
 - 👨‍💻 All of my projects are available at [https://captainpatel.vercel.app/](https://captainpatel.vercel.app/)
 
-- 💬 Ask me about **MERN Stack, C++, Javascript**
+- 💬 Ask me about **MERN Stack, C++, Javascript, Python**
   
 - 📫 How to reach me **k2patel4947@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZqfE7Csn0Sx_jFhLH3JP7XuKjYlhNaVd/view?usp=drive_link](https://drive.google.com/file/d/1ZqfE7Csn0Sx_jFhLH3JP7XuKjYlhNaVd/view?usp=drive_link)
 
-- ⚡ Fun fact **I love fun, thats a fact!**
+- ⚡ Fun fact : **I love fun, thats a fact!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
