@@ -2,12 +2,12 @@
 <h3 align="center">DevOps & Cloud Engineer · AWS Certified Solutions Architect · Indore, India</h3>
 
 <br>
-- <p align="center">The Date is <span>Mon Jun 22 2026</span></p>
+
 - 🔭 Currently working as a **DevOps Engineer at Accenture** — managing Linux infrastructure, CI/CD pipelines, and cloud operations on AWS
 - 🌱 Preparing for **CKA (Certified Kubernetes Administrator)** · Deepening expertise in Terraform, Helm, and GitOps
 - 🏆 Certified: **AWS Solutions Architect – Associate (SAA-C03)** · **AWS Cloud Practitioner (CLF-C02)**
 - ⚙️ I automate things — 180+ engineer-hours saved/month through Ansible, Python, and Bash scripting
-- 👨‍💻 All of my projects are available at [captainpatel.vercel.app](https://captainpatel.vercel.app/)
+- 👨‍💻 Portfolio: [captainpatel.vercel.app](https://captainpatel.vercel.app/)
 - 💬 Ask me about **Linux, Kubernetes, Terraform, Ansible, AWS, CI/CD, Docker**
 - 📄 Resume: [View Here](https://drive.google.com/file/d/1ZqfE7Csn0Sx_jFhLH3JP7XuKjYlhNaVd/view?usp=drive_link)
 - 📫 Reach me at **captain.patel.codes@gmail.com**
