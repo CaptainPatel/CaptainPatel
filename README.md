@@ -2,7 +2,7 @@
 <h3 align="center">DevOps & Cloud Engineer · AWS Certified Solutions Architect · Indore, India</h3>
 
 <br>
-
+- <p align="center">The Date is <span>Mon Jun 22 2026</span></p>
 - 🔭 Currently working as a **DevOps Engineer at Accenture** — managing Linux infrastructure, CI/CD pipelines, and cloud operations on AWS
 - 🌱 Preparing for **CKA (Certified Kubernetes Administrator)** · Deepening expertise in Terraform, Helm, and GitOps
 - 🏆 Certified: **AWS Solutions Architect – Associate (SAA-C03)** · **AWS Cloud Practitioner (CLF-C02)**
