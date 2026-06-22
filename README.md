@@ -9,7 +9,7 @@
 - ⚙️ I automate things — 180+ engineer-hours saved/month through Ansible, Python, and Bash scripting
 - 👨‍💻 Portfolio: [captainpatel.vercel.app](https://captainpatel.vercel.app/)
 - 💬 Ask me about **Linux, Kubernetes, Terraform, Ansible, AWS, CI/CD, Docker**
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1ZqfE7Csn0Sx_jFhLH3JP7XuKjYlhNaVd/view?usp=drive_link)
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1IOBz3TBxfOOcQeYWySNDysu67F_r44tc/view?usp=drive_link)
 - 📫 Reach me at **captain.patel.codes@gmail.com**
 - ⚡ Fun fact: **I once resolved a P1 incident faster than it took to raise the ticket**
 
